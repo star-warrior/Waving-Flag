@@ -1,3 +1,3 @@
 # Waving-Flag
 
-Website Link :> https://jaymehtajbm.github.io/Waving-Flag/
+Website Link :> https://star-warrior.github.io/Waving-Flag/
